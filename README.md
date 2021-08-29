@@ -11,7 +11,7 @@ It corresponds to two automatic Test Cases (see file Test Cases.pdf inside Plan 
 
 > **TC1FillForm.java** - Automation Test Case 1
 
-> **TC02FillFOrmWithoutDate** - Automation Test CAse 2
+> **TC02FillFOrmWithoutDate** - Automation Test Case 2
 
 To execute the code you need to use **Windows OS**, have Chrome Browser installed, and Java 8 instaled
 
